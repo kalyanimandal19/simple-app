@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kalyanimandal19/simple-app.git/static/css/main.2791bbd1.chunk.css",
-    "main.js": "/kalyanimandal19/simple-app.git/static/js/main.c11bbc46.chunk.js",
-    "main.js.map": "/kalyanimandal19/simple-app.git/static/js/main.c11bbc46.chunk.js.map",
-    "runtime-main.js": "/kalyanimandal19/simple-app.git/static/js/runtime-main.c7793a4e.js",
-    "runtime-main.js.map": "/kalyanimandal19/simple-app.git/static/js/runtime-main.c7793a4e.js.map",
-    "static/js/2.c2dc748f.chunk.js": "/kalyanimandal19/simple-app.git/static/js/2.c2dc748f.chunk.js",
-    "static/js/2.c2dc748f.chunk.js.map": "/kalyanimandal19/simple-app.git/static/js/2.c2dc748f.chunk.js.map",
-    "index.html": "/kalyanimandal19/simple-app.git/index.html",
-    "static/css/main.2791bbd1.chunk.css.map": "/kalyanimandal19/simple-app.git/static/css/main.2791bbd1.chunk.css.map",
-    "static/js/2.c2dc748f.chunk.js.LICENSE.txt": "/kalyanimandal19/simple-app.git/static/js/2.c2dc748f.chunk.js.LICENSE.txt"
+    "main.css": "/simple-app/static/css/main.2791bbd1.chunk.css",
+    "main.js": "/simple-app/static/js/main.c11bbc46.chunk.js",
+    "main.js.map": "/simple-app/static/js/main.c11bbc46.chunk.js.map",
+    "runtime-main.js": "/simple-app/static/js/runtime-main.64b7ef76.js",
+    "runtime-main.js.map": "/simple-app/static/js/runtime-main.64b7ef76.js.map",
+    "static/js/2.c2dc748f.chunk.js": "/simple-app/static/js/2.c2dc748f.chunk.js",
+    "static/js/2.c2dc748f.chunk.js.map": "/simple-app/static/js/2.c2dc748f.chunk.js.map",
+    "index.html": "/simple-app/index.html",
+    "static/css/main.2791bbd1.chunk.css.map": "/simple-app/static/css/main.2791bbd1.chunk.css.map",
+    "static/js/2.c2dc748f.chunk.js.LICENSE.txt": "/simple-app/static/js/2.c2dc748f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7793a4e.js",
+    "static/js/runtime-main.64b7ef76.js",
     "static/js/2.c2dc748f.chunk.js",
     "static/css/main.2791bbd1.chunk.css",
     "static/js/main.c11bbc46.chunk.js"
